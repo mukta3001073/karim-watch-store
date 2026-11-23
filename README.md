@@ -2,7 +2,7 @@
 
 A responsive, dynamic e-commerce website built for **Mr. Karim's premium watch business**. Customers can browse the watch catalog, search products, create an account, and automatically receive a personalized welcome email after registration.
 
-## 🔗 Live Demo
+## 🔗 Website Link
 
 **👉 https://karim-watch-store.onrender.com/
 
@@ -135,4 +135,4 @@ Create a `.env` file in the project root:
 
 **YOUR NAME** Afroza Akter Mukta
 
-GitHub: mukta3001073
+GitHub: https://github.com/mukta3001073/Portfolio
