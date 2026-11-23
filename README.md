@@ -134,5 +134,5 @@ Create a `.env` file in the project root:
 
 ## 👩‍💻 Author
 
-**YOUR NAME**
-GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+**YOUR NAME** Afroza Akter Mukta
+GitHub: mukta3001073
