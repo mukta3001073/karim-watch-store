@@ -4,7 +4,7 @@ A responsive, dynamic e-commerce website built for **Mr. Karim's premium watch b
 
 ## 🔗 Live Demo
 
-**👉 https://YOUR-LIVE-DEMO-LINK-HERE**
+**👉 https://karim-watch-store.onrender.com/
 
 > Replace the link above with your deployed URL (Render / Railway / etc.).
 
