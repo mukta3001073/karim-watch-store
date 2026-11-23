@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Karim Premium Watches</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="nav">
+    <div class="logo">⌚ Karim <span>Premium Watches</span></div>
+    <div class="nav-right" id="navRight"></div>
+  </header>
+
+  <section class="hero">
+    <h1>Timeless Watches, Modern Style</h1>
+    <p>Discover our curated premium collection.</p>
+    <input id="search" type="search" placeholder="Search watches..." />
+  </section>
+
+  <main>
+    <div id="status" class="status">Loading watches...</div>
+    <div id="grid" class="grid"></div>
+  </main>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-box">
+      <button class="close" id="closeModal" aria-label="Close">&times;</button>
+      <h2 id="modalTitle">Sign in</h2>
+      <form id="authForm">
+        <input id="nameInput" type="text" placeholder="Full name" />
+        <input id="emailInput" type="email" placeholder="Email" required />
+        <input id="passwordInput" type="password" placeholder="Password (min 6 chars)" required minlength="6" />
+        <button type="submit" id="submitBtn">Sign in</button>
+        <p class="msg" id="msg"></p>
+      </form>
+      <p class="switch">
+        <span id="switchText">No account?</span>
+        <a href="#" id="switchLink">Register</a>
+      </p>
+    </div>
+  </div>
+
+  <footer>© Karim Premium Watches</footer>
+  <script src="app.js"></script>
+</body>
+</html>
