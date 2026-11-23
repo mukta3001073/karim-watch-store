@@ -6,7 +6,6 @@ A responsive, dynamic e-commerce website built for **Mr. Karim's premium watch b
 
 **👉 https://karim-watch-store.onrender.com/
 
-> Replace the link above with your deployed URL (Render / Railway / etc.).
 
 ---
 
@@ -135,4 +134,5 @@ Create a `.env` file in the project root:
 ## 👩‍💻 Author
 
 **YOUR NAME** Afroza Akter Mukta
+
 GitHub: mukta3001073
